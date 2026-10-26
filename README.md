@@ -1,13 +1,73 @@
-# Panoni ㉿
 
-**Web Security • Vulnerability Research**
+```text
+                                                ㉿
+██╗    ██╗███████╗██████╗ ███████╗███████╗ ██████╗
+██║    ██║██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+██║ █╗ ██║█████╗  ██████╔╝███████╗█████╗  ██║
+██║███╗██║██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║
+╚███╔███╔╝███████╗██████╔╝███████║███████╗╚██████╗
+ ╚══╝╚══╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝
 
-*Understand the attack. Analyze the defense.*
-
-Exploring web vulnerabilities, attack techniques and defensive mechanisms through hands-on labs and security research.
-
-`CVEs` · `PoCs` · `WAF` · `Linux` · `Web Security`
+        offensive security / defensive research
+```
 
 ---
 
-*Research / Labs / Tools*
+```bash
+$ whoami
+
+Web Security · Vulnerability Research
+Offensive & Defensive Security
+Application security · Attack surface analysis · Exploit research
+```
+
+```bash
+$ cat focus.areas
+
+[+] Web Application & API Security
+[+] Vulnerability Research / CVE Analysis
+[+] Exploit Development & PoC Validation
+[+] Reconnaissance & Attack Surface Mapping
+[+] WAF Analysis & Evasion Techniques
+[+] HTTP Traffic & Protocol Analysis
+[+] Threat Detection & Security Monitoring
+[+] Security Automation & Tooling
+```
+
+```bash
+$ tree toolkit/
+
+toolkit/
+├── web/
+│   ├── Burp Suite
+│   ├── OWASP ZAP
+│   ├── Nuclei
+│   ├── sqlmap
+│   └── ffuf
+├── recon/
+│   ├── Nmap
+│   ├── Amass
+│   ├── Subfinder
+│   └── feroxbuster
+├── offensive/
+│   ├── Metasploit
+│   └── Ghidra
+├── defensive/
+│   ├── Wireshark
+│   ├── Suricata
+│   └── Zeek
+└── environment/
+    ├── Kali Linux
+    ├── Python
+    ├── Bash
+    └── Git
+```
+
+```bash
+$ cat philosophy.txt
+
+Understand the attack surface.
+Analyze the weakness.
+Validate the exploit.
+Study the defense.
+```
