@@ -1,16 +1,13 @@
-## Hi there 👋
+# Panoni ㉿
 
-<!--
-**panoni9/panoni9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Security • Vulnerability Research**
 
-Here are some ideas to get you started:
+*Understand the attack. Analyze the defense.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring web vulnerabilities, attack techniques and defensive mechanisms through hands-on labs and security research.
+
+`CVEs` · `PoCs` · `WAF` · `Linux` · `Web Security`
+
+---
+
+*Research / Labs / Tools*
